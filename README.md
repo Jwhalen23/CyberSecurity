@@ -23,5 +23,5 @@ This is intended for:
 ---
 
 Navigate:
-[Start Tutorial →](what-is-cybersecurity.md)
+[Start](what-is-cybersecurity.md)
 
