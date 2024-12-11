@@ -2,7 +2,7 @@
 An introdction in cybersecurity
 # What is cybersecurity# Introduction to Cybersecurity
 
-Author: John Whalen
+By: John Whalen
 
 ## Summary
 This tutorial provides a foundational overview of cybersecurity concepts, best practices, and tools to help individuals and organizations safeguard their digital assets. Learn about common threats, prevention methods, and how to respond to security incidents.
