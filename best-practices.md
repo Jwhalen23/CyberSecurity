@@ -4,4 +4,4 @@
 3. **Regular Updates**: Keep software and systems updated to patch vulnerabilities.
 4. **Backup Data**: Regularly backup critical files to ensure recovery in case of an incident.
 
-Navigate: [Next → Cybersecurity Tools](./Cybersecurity_Tools.md)
+Navigate: [Next → Cybersecurity Tools](tools.md)
