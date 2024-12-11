@@ -16,7 +16,7 @@ This is intended for:
 
 ## Table of Contents
 1. [What is Cybersecurity?](what-is-cybersecurity.md)
-2. [Common Cyber Threats](common-threats.md)
+2. [Common Cyber Threats](Common_Cyber_Threats.md)
 3. [Best Practices for Cybersecurity](best-practices.md)
 4. [Cybersecurity Tools](tools.md)
 
