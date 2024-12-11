@@ -5,13 +5,12 @@ An introdction in cybersecurity
 By: John Whalen
 
 ## Summary
-This tutorial provides a foundational overview of cybersecurity concepts, best practices, and tools to help individuals and organizations safeguard their digital assets. Learn about common threats, prevention methods, and how to respond to security incidents.
+This tutorial provides an overview of cybersecurity concepts, practices, and tools to help people safeguard their digital assets and learn about threats and prevention methods.
 
 ## Target Audience
-This tutorial is intended for:
-- Beginners with minimal or no prior knowledge of cybersecurity.
-- Small business owners aiming to secure their operations.
-- Students or professionals seeking an introduction to digital security concepts.
+This is intended for:
+- Anyone who cares about their privacy.
+- My professor 
 
 ---
 
@@ -20,7 +19,6 @@ This tutorial is intended for:
 2. [Common Cyber Threats](common-threats.md)
 3. [Best Practices for Cybersecurity](best-practices.md)
 4. [Cybersecurity Tools](tools.md)
-5. [Responding to Security Incidents](incident-response.md)
 
 ---
 
