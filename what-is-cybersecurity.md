@@ -13,5 +13,5 @@ Cybersecurity refers to the practice of protecting systems and networks from att
 - Prevents financial loss.
 - In an increasingly digital workd cybersecurity is more important than ever.
 
-Navigate: [Next → Common Cyber Threats](./Common_Cyber_Threats.md)
+Navigate: [Next → Common Cyber Threats](common-threats.md)
 
