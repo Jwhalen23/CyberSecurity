@@ -10,4 +10,4 @@
 - Facebook breach
 - Target's data breach.
 
-Navigate: [Next → Best Practices for Cybersecurity](./Best_Practices_for_Cybersecurity.md)
+Navigate: [Next → Best Practices for Cybersecurity](best-practices.md)
