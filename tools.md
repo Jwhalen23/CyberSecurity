@@ -9,5 +9,3 @@
 - **Nmap**: Network scanning.
 - **Wireshark**: Packet analysis.
 - **Metasploit**: Penetration testing.
-
-Navigate: [Next → Responding to Security Incidents](./Responding_to_Security_Incidents.md)
